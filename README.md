@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi, I'm Ferk!
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+- 👨‍🎓 I'm currently a computer systems engineering student.
+- 💻 I'm interested in cybersecurity and artificial intelligence.
+- 📚 I'm currently learning concepts related to cybersecurity, such as networks, operating systems, hacking, and Python. I am also acquiring other knowledge and skills in this field.
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <!--
 **Ferk-Azathoth/Ferk-Azathoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -33,7 +33,7 @@
 </a>
 </p>
 
-<h2 align="center">Connect with me</h2> 
+<h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 55px /> Connect with me</h2> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fermin-reyes-triana-ig-sist-comp/" style="float: left; margin-right: 10px;">

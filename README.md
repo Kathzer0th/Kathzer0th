@@ -36,7 +36,7 @@
 <h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 55px /> Connect with me</h2> 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fermin-reyes-triana-ig-sist-comp/" style="float: left; margin-right: 10px;">
+<a href="https://www.linkedin.com/in/feer-reyes-triana" style="float: left; margin-right: 10px;">
     <img alt="choubari" src="https://img.icons8.com/nolan/96/linkedin.png" width="50">
 </p>
 

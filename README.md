@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://www.python.org/" style="float: left; margin-right: 10px;">
-    <img alt="choubari" src="https://devstickers.com/assets/img/pro/p3jo.png](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40">
+    <img alt="choubari" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40">
 </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="float: left; margin-right: 10px;"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
